@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Datos Contacto</string>
+    <string name="nombre">Nombre Contacto</string>
+    <string name="nacimiento">Naciste</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="btnSet">Set</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pnacimiento">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+
+    <string name="tvtitulo">Confirmar Datos</string>
+    <string name="btneditar">Editar</string>
+
+</resources>
