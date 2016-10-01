@@ -96,7 +96,9 @@ public class MainActivity extends AppCompatActivity {
 
         public void onDateSet(DatePicker view, int anio, int mes, int dia) {
             // Do something with the date chosen by the user
-
+            year = anio;
+            month = mes;
+            day = dia;
             viewFecha = (TextView) findViewById(R.id.nacimiento);
             // set date into textview
             viewFecha.setText(new StringBuilder()
